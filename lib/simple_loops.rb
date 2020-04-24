@@ -29,5 +29,4 @@ def return_string_array array
     new_array = array.pop
     counter +=1
   end
-  return new_array
 end
