@@ -1,4 +1,4 @@
 # Write your methods here
-def loop_message_five_times string
-  puts 5.times(string)
+def loop_message_five_times message
+  puts 5.times(message)
 end
